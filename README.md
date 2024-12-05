@@ -1,2 +1,4 @@
 # Blockchain
-Implemented a simple blockchain that can do mining, validation, transaction using Flask API and tkinter for GUI as part of my mini project
+Implemented a simple blockchain with python
+Used Flask API for validation, transaction, mining
+Build GUI using tkinter 
